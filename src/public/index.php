@@ -10,3 +10,6 @@ if ($posicao !== false) {
 } else {
     echo "A palavra 'Rio' não foi encontrada na frase.";
 }
+?>
+<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<?= $posicao; ?>
